@@ -54,7 +54,6 @@ namespace PasswordChecker
           Console.WriteLine("the password doesn’t meet any of the standards");
           break;
       }
-
     }
   }
 }
